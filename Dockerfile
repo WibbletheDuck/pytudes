@@ -1,0 +1,1 @@
+FROM eu.gcr.io/nextjournal-com/environment@sha256:1cb4ae08dd31c4b200dab8d5bec4f1b1a84c412af57b6c7605a25603aa6adbef
